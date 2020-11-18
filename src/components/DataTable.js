@@ -69,7 +69,6 @@
 
 import React from "react";
 import DataBody from "./DataBody";
-//import "../styles/DataTables.css";
 
 function DataTable({ headings, users, handleSort }) {
     return (
